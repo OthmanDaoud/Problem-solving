@@ -1,4 +1,4 @@
 # Problem-solving
 
-## What did i learn?
-i applied differant concepts on JavaScript like "Linkedlist, Binary search , Stack , Queue"
+## What did I learn?
+I applied differant concepts in JavaScript like "Linked list, Binary search, Stack , Queue"
